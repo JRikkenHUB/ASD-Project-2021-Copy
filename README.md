@@ -3,4 +3,4 @@
 HAN AIM SD
 ASD project 2020/2021 S2 
 
-Zie PvA
+Voor mijn bijdrage aan dit project zie onderdelen UI en agent
